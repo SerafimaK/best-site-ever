@@ -4,9 +4,8 @@ body {
   font-family: "Quicksand", "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
-  color: #222222;
-  background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  color: #5A504F;
+  background-color: #FFFBFA;
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -30,7 +29,7 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #288be6;
+  color: #576D5D;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -42,8 +41,9 @@ body {
 }
 
 .header-phone {
-  padding-left: 25px;
-  background-image: url("img/icon-phone-header.svg");
+  padding-left: 35px;
+  padding-right: 20px;
+  background-image: url("img/telegram-logo.svg");
 }
 
 .hero-image {
@@ -183,7 +183,7 @@ ul{
 
 .page-footer {
   padding: 40px 0;
-  background-color: #00417d;
+  background-color: #576D5D;
   color: #ffffff;
 }
 
