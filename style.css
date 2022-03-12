@@ -102,12 +102,32 @@ body {
   padding: 0;
 }
 
+.skills li {
+  background-repeat: no-repeat;
+  background-position: left center;
+  padding-left: 40px;
+  margin: 10px;
+  list-style: none;
+}
+
+ul{
+  padding-inline-start:  10px;
+}
+
 .skill-html {
-  list-style-image: url("img/icon-html.svg");
+  background: url("img/html.svg");
 }
 
 .skill-css {
-  list-style-image: url("img/icon-css.svg");
+  background: url("img/css.svg");
+}
+
+.skill-python{
+  background: url("img/python.svg");
+}
+
+.skill-javascript{
+  background: url("img/javascript.svg");
 }
 
 .level {
