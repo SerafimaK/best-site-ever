@@ -102,12 +102,6 @@ body {
   padding: 0;
 }
 
-.skills-list dt {
-  padding-left: 32px;
-  background-repeat: no-repeat;
-  background-position: left;
-}
-
 .skill-html {
   background-image: url("img/icon-html.svg");
 }
