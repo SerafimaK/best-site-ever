@@ -103,11 +103,11 @@ body {
 }
 
 .skill-html {
-  background-image: url("img/icon-html.svg");
+  list-style-image: url("img/icon-html.svg");
 }
 
 .skill-css {
-  background-image: url("img/icon-css.svg");
+  list-style-image: url("img/icon-css.svg");
 }
 
 .level {
